@@ -5,10 +5,10 @@
 <br>
 
 
-- identify what functions and methods were used for each section of the project. 
+- Identify what functions and methods were used for each section of the project. 
 ## Overview
 
-As an undergraduate researcher I was tasked to work under a post doctorate to develop a heat waste recovery tool. The product would evaluate different "offtakers" to compare their carbon, water, economic and social benefits to the local stakeholders. Part of my responsibility was to present results through biweekly meetings where we would share project updates. The scoring system uses a normalised performance index to evaluate a data centers reuse of heat waste compared to other options. My major responsibility was to develop a web app to take the data centers input data convert it to useful data for the grading system and help visualise the data for the end user. 
+As an undergraduate researcher I was tasked to work under a postdoctoral scholar to develop a heat waste recovery tool. The product would evaluate different "offtakers" to compare their carbon, water, economic and social benefits to the local stakeholders. Part of my responsibility was to present results through biweekly meetings where we would share project updates. The scoring system uses a normalised performance index to evaluate a data centers reuse of heat waste compared to other options. My major responsibility was to develop a web app to take the data centers input data convert it to useful data for the grading system and help visualise the data for the end user. 
 
 ## Taking Data Input
 The data organised in an excel for the scoring system. One of my initial tasks was to use the pandas library in python to import the data to the scoring system. The streamlit library was also introduced to publish and format the webapp. 
