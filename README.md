@@ -4,8 +4,9 @@
 **Microsoft Funded Project**
 <br>
 
+- Identify what functions and methods were used for each section of the project.
 
-- Identify what functions and methods were used for each section of the project. 
+<img src="assets/Screenshot 2026-08-30 141914.png" width="55%" />
 ## Overview
 
 As an undergraduate researcher I was tasked to work under a postdoctoral scholar to develop a heat waste recovery tool. The product would evaluate different "offtakers" to compare their carbon, water, economic and social benefits to the local stakeholders. Part of my responsibility was to present results through biweekly meetings where we would share project updates. The scoring system uses a normalised performance index to evaluate a data centers reuse of heat waste compared to other options. My major responsibility was to develop a web app to take the data centers input data convert it to useful data for the grading system and help visualise the data for the end user. 
@@ -23,7 +24,7 @@ Scoring data was visualised using streamlits plot function. For effective data v
 ## Visualising Uncertainty
 
 Handling uncertainty and scoring required using a normalised score with other offtakers. The post doc and I collaborated on a seperate excel to store the offtakers and later use for the uncertainty calculations and scoring
-<img src="assets/Cover Picture.png" width="55%" />
+
 
 ## Visualising Economic Data
 
