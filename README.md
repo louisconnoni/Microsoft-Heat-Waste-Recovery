@@ -16,7 +16,9 @@ The data organised in an excel for the scoring system. One of my initial tasks w
 
 ## Visualising Scoring Data
 Scoring data was visualised using streamlits plot function. For effective data visualization it was my task to take Microsoft's suggestions and introduce two plots to convey the data. One plot compared each subscore individually to visualize what each offtaker performed best. The other plot visualisation was to stack the subscores to better convey the total out of maximum score of 1. I also introduced bar sliders to adjust the weighting each subscore within the total.
-<img src="assets/Cover Picture.png" width="55%" />
+
+<img src="Offtaker results 1.png" width="55%" />
+<img src="offtaker results 2.png" width="55%" />
 
 ## Visualising Uncertainty
 
